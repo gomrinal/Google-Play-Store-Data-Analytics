@@ -1,5 +1,8 @@
 # Google-Play-Store
-[Interactive Tableau Dashboard]:
+
+Link to Interactive Tableau Dashboard:
+
+
 https://public.tableau.com/views/GooglePlayStoreDashboard_15770584248470/Dashboard1?:useGuest=true&:display_count=y&:origin=viz_share_link
 
 
