@@ -1,4 +1,8 @@
 # Google-Play-Store
+[Interactive Tableau Dashboard]:
+https://public.tableau.com/views/GooglePlayStoreDashboard_15770584248470/Dashboard1?:useGuest=true&:display_count=y&:origin=viz_share_link
+
+
 This repository contains Google Play Store Analysis using Python!
 
 Data Directory: It contains Dataset for the analysis. It has apps.csv which contains informationa about the Apps and user_reviews.csv contains reviews about the App.
