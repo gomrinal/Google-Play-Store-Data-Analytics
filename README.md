@@ -3,7 +3,7 @@
 Link to Interactive Tableau Dashboard:
 
 
-https://public.tableau.com/views/GooglePlayStoreDashboard_15770584248470/Dashboard1?:useGuest=true&:display_count=y&:origin=viz_share_link
+https://public.tableau.com/profile/mrinal.gosain#!/vizhome/GooglePlayStoreDashboard_15770584248470/Dashboard1
 
 
 This repository contains Google Play Store Analysis using Python!
