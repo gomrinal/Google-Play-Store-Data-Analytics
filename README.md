@@ -12,7 +12,7 @@ Data Directory: It contains Dataset for the analysis. It has apps.csv which cont
 
 Notebook contains all the steps done in chronological order:
 
-Data Loading -> Data Cleaning -> Feature Extraction -> Featrue Modification -> Exploratory Data Analysis -> Data Exploration!
+Data Loading -> Data Cleaning -> Feature Extraction -> Feature Engineering -> Exploratory Data Analysis -> Data Exploration!
 
 Further Enhancements:
 1. Using Machine Learning Algos to predict the rating based on other features! (Regression)
